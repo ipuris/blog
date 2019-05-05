@@ -1,0 +1,5 @@
+baseURL = "http://blog.hanpark.im/"
+languageCode = "ko-kr"
+title = "ipuris"
+publishDir = "docs"
+theme = "ananke"
