@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.hanpark.im/writing/white-butterfly/</loc>
+    <lastmod>2019-06-09T21:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/travel/2019-san-jose-ca-us/</loc>
     <lastmod>2019-05-05T19:42:14+09:00</lastmod>
   </url>
@@ -24,8 +29,14 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/writing/</loc>
+    <lastmod>2019-06-09T21:22:49+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/</loc>
-    <lastmod>2019-05-05T19:42:14+09:00</lastmod>
+    <lastmod>2019-06-09T21:22:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
