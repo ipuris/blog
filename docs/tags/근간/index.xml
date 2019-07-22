@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>근간 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%EA%B7%BC%EA%B0%84/</link>
+    <description>Recent content in 근간 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 24 Oct 2016 23:23:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%EA%B7%BC%EA%B0%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Origin</title>
+      <link>http://blog.hanpark.im/doodle/origin/</link>
+      <pubDate>Mon, 24 Oct 2016 23:23:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/doodle/origin/</guid>
+      <description>최근 페이스북의 프라이버시 문제와 관련된 글이 많이 공유되는 일이 있었다. 그냥 장난(hoax)이라고들 하는데, 나는 그 글에서 재미있는 부분이 있었다. 바로 그 글이 효력을 얻기 위해서는 공유하기가 아닌 복사하기-붙여넣기로 글을 직접 포스팅해야 한다는 부분이었다.
+공유하기와 직접 쓴 글이 법적으로 어떤 효력의 차이가 있을지는 잘 모르겠으나, 효력이야 어찌되었든 간에 이 글은 &amp;lsquo;공유하기 하면 안되고 복붙 해야해요!&amp;rsquo; 라는 부분이 하나의 장치로 작동하여 출처를 알 수 없는 소문이 될 수 있었다. 트위터의 리트윗처럼 페이스북의 공유하기 역시 원본을 알 수 있는 효과가 있는데, 이 &amp;lsquo;복붙&amp;rsquo; 때문에 그 기능이 상실된 것이다.</description>
+    </item>
+    
+  </channel>
+</rss>

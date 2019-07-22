@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>컴스켓 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%EC%BB%B4%EC%8A%A4%EC%BC%93/</link>
+    <description>Recent content in 컴스켓 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 12 Feb 2017 15:40:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%EC%BB%B4%EC%8A%A4%EC%BC%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://blog.hanpark.im/doodle/comsket/</link>
+      <pubDate>Sun, 12 Feb 2017 15:40:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/doodle/comsket/</guid>
+      <description>오랜만이었다. 컴스켓이라는 이름으로 만난 것 아니지만, 컴스켓으로 인해 인연을 맺게 된 사람들이 모인 자리. 가끔이라도 보던 사람들도 있고, 오랜만에 봐서 반가운 사람들도 있었다.
+괜히 뿌듯했다. 행복했다. 이렇게 사람들과 인연을 만들고 정을 나눌 수 있는 그 작은 모임을 내가 만들어갈 수 있었다는 것이. 그 모임을 함께 지금까지 소중하게 간직해주고 있는 그들이 고마웠다.</description>
+    </item>
+    
+  </channel>
+</rss>
