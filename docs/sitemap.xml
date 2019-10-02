@@ -223,6 +223,11 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/travel/2014-hawaii/reminiscence/</loc>
+    <lastmod>2014-09-29T02:39:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/travel/2014-san-jose/jun1/</loc>
     <lastmod>2014-06-01T06:49:00+09:00</lastmod>
   </url>
@@ -328,6 +333,12 @@
   <url>
     <loc>http://blog.hanpark.im/tags/google-headquarter/</loc>
     <lastmod>2015-01-06T04:13:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/tags/hawaii/</loc>
+    <lastmod>2014-09-29T02:39:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -604,6 +615,12 @@
   <url>
     <loc>http://blog.hanpark.im/tags/%EB%AC%B8%EC%9C%A0%EC%84%9D/</loc>
     <lastmod>2016-05-29T05:26:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/tags/%EB%B0%94%EB%8B%A4/</loc>
+    <lastmod>2014-09-29T02:39:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
