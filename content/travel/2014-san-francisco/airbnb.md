@@ -24,7 +24,7 @@ Bart Station으로는 McAuthor와 Rockridge 사이에 있는 곳이었다.
 도착한 숙소가 너무 초라했던 것이다.
 호텔급을 기대하지는 않았지만 그래도 뭔가 번지르하긴 할 줄 알았는데, 그런데 이건 너무 평범하디 평범한... 아니 초라하다고도 할 수 있는, 그냥 집인거다.
 
-![movie poster image](/image/content/travel/2014sf/sinem_house.jpg)
+![Sinem's house](/image/content/travel/2014sf/sinem_house.jpg)
 *내가 기대했던 집은 이런 집이 아니었는데..*
 
 집주인은 일 때문에 없었다.

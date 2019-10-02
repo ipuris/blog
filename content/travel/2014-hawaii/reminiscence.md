@@ -15,6 +15,6 @@ tags: ["Hawaii", "바다"]
 내리쬐는 태양, 삼바 춤, 야자수, 뭐 그런 것들로 유명하지만 사실 내가 가장 기대했던 건, 그리고 한국으로 돌아온 지금 가장 기억에 남는 건, 바다다.
 그러니까, 그 광활하고 푸르던, 가슴 벅차던, 태평양 말이다.
 
-![movie poster image](/image/content/travel/2014hawaii/airplane.png)
+![Airplane](/image/content/travel/2014hawaii/airplane.png)
 
-![movie poster image](/image/content/travel/2014hawaii/love.png)
+![A scene](/image/content/travel/2014hawaii/love.png)

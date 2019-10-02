@@ -5,7 +5,7 @@ tags: ["Livermore Premium Outlet", "Dublin", "Livermore", "Nike", "Oakland", "Ou
 ---
 숙소에 짐을 풀고 우리가 가장 먼저 한 일은 아웃렛에 가는 일이었다.
 
-![movie poster image](/image/content/travel/2014sf/korea_restaurants_in_us.png)
+![Korean restaurants](/image/content/travel/2014sf/korea_restaurants_in_us.png)
 *여긴 한국인가 미국인가… 숙소 주위에는 한인촌이 있는 것 같았다*
 
 학회 참석하라고 미국을 보내놨더니 아웃렛이나 가고있냐는 오해가 있을 수 있기에 변명을 해야할 것 같다.
@@ -31,7 +31,7 @@ Uber를 타면 예상 요금이 10불이 넘었는데 이렇게 발견하게 되
 
 하지만 10달러를 넣으니 5불 두 장이 나오고 끝이다. 이런, 망했다. 목도 마르고 벌써 피곤하다. 재휴와 함께 공허하게 하늘을 쳐다보다가, 뭐 이런게 또 여행의 맛이지, 라고 생각하며 한 쪽 방향을 정해서 걷기 시작했다. 그래도 사람이 사는 곳인데 잔돈 바꿀만한 곳 하나 없을까. 얘네도 잔돈이 필요할텐데. 물론, 얘네는 잔돈이 필요하면 자동차를 타고 이동하겠지. 그런데 우린 자동차가 없어. 모르겠다 일단 걷자.
 
-![movie poster image](/image/content/travel/2014sf/where_is_change.png)
+![where is a change](/image/content/travel/2014sf/where_is_change.png)
 *뭔가 있을 것 같지만, 정말이지 신기하게도 아무 것도 없다. 그 흔한 마트 하나, 음식점 하나도.*
 
 주위를 좀 걸어가보니, 다행히도 머지 않아 Cafe Xpress 라는 작은 노점상을 발견할 수 있었다.
@@ -42,13 +42,13 @@ Uber를 타면 예상 요금이 10불이 넘었는데 이렇게 발견하게 되
 피곤하고 힘들고, 그러다가 내가 그렇게 좋아하는 콜라를 마시니 이제 좀 살 것 같다. 
 그렇게 마련한 잔돈으로 버스를 타고 아웃렛으로 갔다.
 
-![movie poster image](/image/content/travel/2014sf/one_dollar.png)
+![one dollar](/image/content/travel/2014sf/one_dollar.png)
 *드디어 1달러가 생겼다!*
 
-![movie poster image](/image/content/travel/2014sf/bug_to_livermore.png)
+![bus](/image/content/travel/2014sf/bug_to_livermore.png)
 *리버모어 아웃렛 가는 버스에, 드디어 탔다!*
 
-![movie poster image](/image/content/travel/2014sf/livermore_outlet.png)
+![Livermore Outlet](/image/content/travel/2014sf/livermore_outlet.png)
 *드디어 도착, 리버모어 아웃렛!*
 
 아웃렛에 도착해서 가장 먼저 한 일은, 역시 밥이었다.
@@ -57,14 +57,11 @@ Uber를 타면 예상 요금이 10불이 넘었는데 이렇게 발견하게 되
 첫끼 치고 나쁘지 않은 음식이었다.
 아니, 사실 굉장히 맛있었다!
 
-![movie poster image](/image/content/travel/2014sf/food_court_at_livermore.png)
+![Food court](/image/content/travel/2014sf/food_court_at_livermore.png)
 *금강산도 식후경이랬다*
 
-![movie poster image](/image/content/travel/2014sf/burger_at_livermore.png)
+![burger](/image/content/travel/2014sf/burger_at_livermore.png)
 *굉장히 맛있었다!*
-
-![movie poster image](/image/content/travel/2014sf/livermore_outlet.png)
-*드디어 도착, 리버모어 아웃렛!*
 
 아웃렛에 간 건 재휴의 신발을 사기 위한 것이 가장 큰 목적이었다.
 열심히 돌아다니기 위해서는 좋은 신발이 필요하다며, 재휴는 일부러 낡은 신발을 신고 와서는 아웃렛에서 새 신발을 쿨하게 질렀다.
@@ -72,7 +69,7 @@ Uber를 타면 예상 요금이 10불이 넘었는데 이렇게 발견하게 되
 게다가 미국의 아웃렛은 우리 나라에 비해 가격이 훨씬 싸기 때문에 만약 신발을 사야한다면 미국에서 사는 것이 훨씬 낫다.
 그리고 역시, 신발은 나이키지.
 
-![movie poster image](/image/content/travel/2014sf/nike_shoes.png)
+![Nike shoes](/image/content/travel/2014sf/nike_shoes.png)
 *새로 산 재휴의 빨간 신발이 예쁘다. 내 파란 신발도 예쁘다. 헤헤*
 
 나는 나이키에서 빨간 스웨터와 비슷한 옷을 샀다.
@@ -83,10 +80,10 @@ Uber를 타면 예상 요금이 10불이 넘었는데 이렇게 발견하게 되
 어차피 한두 번 다시 올 예정인데다, 예매해놓은 NBA 경기 시간도 다 되어가고 해서, 그냥 나이키랑 CK만 보고 돌아나왔다.
 그런데도 벌써 날이 어둑어둑해지고 있었다.
 
-![movie poster image](/image/content/travel/2014sf/livermore_outlet_before.png)
+![Afternoon at Livermore Outlet](/image/content/travel/2014sf/livermore_outlet_before.png)
 *이렇던 날이,*
 
-![movie poster image](/image/content/travel/2014sf/livermore_outlet_after.png)
+![Night at Livermore Outlet](/image/content/travel/2014sf/livermore_outlet_after.png)
 *순식간에 이렇게 어두워졌다.*
 
 돌아오는 버스에서는 부부로 보이는 두 승객과 운전사 아줌마가 신나게 시끌벅적 만담을 나누었다.
