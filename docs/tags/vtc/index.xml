@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vtc on ipuris</title>
+    <link>http://blog.hanpark.im/tags/vtc/</link>
+    <description>Recent content in Vtc on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 05 Jan 2014 17:24:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/vtc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20130905, VTC 2013-Fall Conference</title>
+      <link>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/vtc-2013/</link>
+      <pubDate>Sun, 05 Jan 2014 17:24:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/vtc-2013/</guid>
+      <description>Vehicular Adhoc Network (VANET) 관련 논문을 쓰고 있는 나에게 있어서 Vehicular Technology Conference (VTC) 라는 곳은 상당히 궁금하고 매력적으로 보이던 곳이다. 비록 Network Security 분야의 Top Class 학회라 할 수 있는 곳이 아니긴 하지만, VANET의 Security/Privacy 이슈를 다루고 있는 훌륭한 논문들이 종종 이 VTC에서 발표되어 왔기 때문이었다.
+VTC 2013-Fall!
+하지만 기대가 너무 컸던걸까, 총평을 하자면 좀 실망이었다. 기조 연설까지만 해도 제법 괜찮았는데, 발표된 논문들이 흥미로운 것이 없었다. 무엇보다 당장 내가 연구하는 분야와 깊이 관련되어 있는 논문 자체가 별로 없었다.</description>
+    </item>
+    
+  </channel>
+</rss>

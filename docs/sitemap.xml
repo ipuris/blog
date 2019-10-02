@@ -248,6 +248,51 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/20140106/</loc>
+    <lastmod>2014-01-06T04:26:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/vtc-2013/</loc>
+    <lastmod>2014-01-05T17:24:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/0904-las-vegas/</loc>
+    <lastmod>2014-01-05T16:53:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/0903-las-vegas/</loc>
+    <lastmod>2014-01-05T16:16:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/0902-las-vegas/</loc>
+    <lastmod>2014-01-05T14:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/stanford-university/</loc>
+    <lastmod>2014-01-05T14:27:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/palo-alto/</loc>
+    <lastmod>2014-01-04T08:07:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/san-francisco-airport/</loc>
+    <lastmod>2014-01-03T06:57:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/departure/</loc>
+    <lastmod>2013-12-30T10:12:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/tags/agile/</loc>
     <lastmod>2015-10-23T12:47:00+09:00</lastmod>
     <priority>0</priority>
@@ -361,6 +406,12 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/tags/las-vegas/</loc>
+    <lastmod>2014-01-05T17:24:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/tags/livermore/</loc>
     <lastmod>2015-01-02T08:08:00+09:00</lastmod>
     <priority>0</priority>
@@ -409,6 +460,12 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/tags/palo-alto/</loc>
+    <lastmod>2014-01-04T08:07:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/tags/pier-39/</loc>
     <lastmod>2015-01-11T04:40:00+09:00</lastmod>
     <priority>0</priority>
@@ -439,6 +496,12 @@
   </url>
   
   <url>
+    <loc>http://blog.hanpark.im/tags/san-francisco-airport/</loc>
+    <lastmod>2014-01-03T06:57:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.hanpark.im/tags/san-jose/</loc>
     <lastmod>2014-12-16T11:22:00+09:00</lastmod>
     <priority>0</priority>
@@ -465,6 +528,18 @@
   <url>
     <loc>http://blog.hanpark.im/tags/sp/</loc>
     <lastmod>2014-06-01T05:41:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/tags/stanford/</loc>
+    <lastmod>2014-01-05T14:27:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/tags/stanford-university/</loc>
+    <lastmod>2014-01-05T14:27:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -501,6 +576,12 @@
   <url>
     <loc>http://blog.hanpark.im/tags/vienna/</loc>
     <lastmod>2016-08-14T15:16:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hanpark.im/tags/vtc/</loc>
+    <lastmod>2014-01-05T17:24:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   

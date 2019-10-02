@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palo Alto on ipuris</title>
+    <link>http://blog.hanpark.im/tags/palo-alto/</link>
+    <description>Recent content in Palo Alto on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 04 Jan 2014 08:07:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/palo-alto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20130901, Palo Alto</title>
+      <link>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/palo-alto/</link>
+      <pubDate>Sat, 04 Jan 2014 08:07:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2013-san-francisco-las-vegas/palo-alto/</guid>
+      <description>공항에 덩그러니 남겨진 우리는, 하지만 신이 나서 지도를 살펴보며 10시간 동안 다녀올만한 구경거리를 찾기 시작했다. 샌프란시스코 하면 생각나는건 바로 골든 브릿지, 금문교! 하지만 기껏 샌프란시스코에 와서 다리 하나 보고 올 수는 없다는 생각이 들었다. 그러고 보니 샌프란시스코는 굉장히 자주 이야기를 들어본 곳임에도 불구하고 별로 가보고 싶은 곳이 없었다. 그러다 갑자기, 샌프란시스코에서 조금 떨어진 곳이 눈에 들어왔다. Palo Alto, 그리고 Stanford University!
+팔로 알토(팰로 앨토라고 읽어야 하나?)가 어딘가. Apple, Google, Facebook과 같은 이 시대 최고의 IT 기업들이 탄생한 곳이 아닌가!</description>
+    </item>
+    
+  </channel>
+</rss>
