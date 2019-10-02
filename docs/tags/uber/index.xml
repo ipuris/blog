@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uber on ipuris</title>
+    <link>http://blog.hanpark.im/tags/uber/</link>
+    <description>Recent content in Uber on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 29 Dec 2014 01:47:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/uber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>출발 - Dec 4, Seoul (1/2)</title>
+      <link>http://blog.hanpark.im/travel/2014-san-francisco/departure/</link>
+      <pubDate>Mon, 29 Dec 2014 01:47:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2014-san-francisco/departure/</guid>
+      <description>이번 여행은 출장 같은 느낌이었다. 샌프란시스코는 전에 한 번 가보기도 했고, 또 옆에 있는 산호세에도 가본 적이 있기 때문에 유명하다는 곳은 이미 그 때 구경을 한 터였다. 또한 아카데믹 컨퍼런스와는 달리 이번에 참석하게 된 린 스타트업 컨퍼런스는 좀 더 능동적으로 움직여야 할 것 같은 느낌이었다. 사람들과 리셉션 장소, 컨퍼런스장, 저녁 식사 등등에서 최대한 많이 만나 이야기도 나누고, 우리 팀이 만들고 있는 제품을 그들에게 보이기도 하고, 그래서 홍보도 하고 조언도 받는 그런 기회로 만들고 싶었다.</description>
+    </item>
+    
+  </channel>
+</rss>

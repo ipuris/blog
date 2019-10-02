@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scrum on ipuris</title>
+    <link>http://blog.hanpark.im/tags/scrum/</link>
+    <description>Recent content in Scrum on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 23 Oct 2015 12:47:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>애자일 마스터 Agile Samurai</title>
+      <link>http://blog.hanpark.im/play/book/agile-samurai/</link>
+      <pubDate>Fri, 23 Oct 2015 12:47:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/play/book/agile-samurai/</guid>
+      <description>애자일, 개발자 커뮤니티에서 요 몇 년간 인기를 끌고 있는 단어다. 스크럼, 칸반, TDD, XP, Pair Programming… 직접적으로 관련이 되어있는 단어도 있고 그렇지 않은 단어도 있지만 모두가 비슷한 시기에 인기를 끌었다. 내가 스크럼이란 것을 처음 겪어본 것이 거의 10년 전인 2007년이니 이제는 최신이라 말하기는 힘든 기법들이지만 여전히 많은 인기를 끌고 있고, 또 그만큼 논란이 되기도 하는 단어들이다. 때문에 이들 각각에 대해 대충 어떤 것인지는 알고 있었고, 그 중에도 스크럼이나 칸반 같은 경우는 직접 겪어보기도 했다.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vienna on ipuris</title>
+    <link>http://blog.hanpark.im/tags/vienna/</link>
+    <description>Recent content in Vienna on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 14 Aug 2016 15:16:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/vienna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Before Sunrise</title>
+      <link>http://blog.hanpark.im/play/movie/before-sunrise/</link>
+      <pubDate>Sun, 14 Aug 2016 15:16:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/play/movie/before-sunrise/</guid>
+      <description>혼자 가서 봤다. 명작이라고 재개봉을 한 것 같았다.
+너무 아름다웠다. 비엔나라는 도시가 너무 아름다웠다. 설레고 두근거리고 즐거웠다. 젊음이 아름답고 순수함이 아름다웠다. 아마추어 배우 두 명도, 시를 적어주던 거리의 걸인도, 레드 와인 한 병을 공짜로 주던 주인 아저씨도, 관람차에서의 첫키스도, 풀밭에서의 사랑도.
+보는 내내 환하게 웃다 나왔다. 나 역시, 우리 역시 저들처럼 예쁘게 사랑했던 모습들도 생각나고, 조금 시리기도 하고.
+서툴렀지만, 솔직했고, 아름다웠고, 고마웠던.</description>
+    </item>
+    
+  </channel>
+</rss>

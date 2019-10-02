@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzle on ipuris</title>
+    <link>http://blog.hanpark.im/tags/puzzle/</link>
+    <description>Recent content in Puzzle on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 20 Jan 2015 02:25:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puzzle with Sinem - Dec 10, SF Day 7 (1/1)</title>
+      <link>http://blog.hanpark.im/travel/2014-san-francisco/puzzle-with-sinem/</link>
+      <pubDate>Tue, 20 Jan 2015 02:25:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2014-san-francisco/puzzle-with-sinem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

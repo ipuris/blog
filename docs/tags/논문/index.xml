@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>논문 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%EB%85%BC%EB%AC%B8/</link>
+    <description>Recent content in 논문 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 31 Oct 2015 05:46:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%EB%85%BC%EB%AC%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>논문</title>
+      <link>http://blog.hanpark.im/doodle/paper/</link>
+      <pubDate>Sat, 31 Oct 2015 05:46:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/doodle/paper/</guid>
+      <description>&amp;ldquo;A가 1976년 a 논문을 통해 최초로 제안한 X라는 개념은 1978년 B의 b 논문을 통해 구체화되었고, 1980년 C가 c 논문에서 이를 실제로 사용가능한 수준으로 구현해내는데 성공했다&amp;rdquo;
+교과서나 아니면 다른 교양 서적 등을 보면 가끔 이런 식의 표현을 볼 때가 있다. 박사과정 학생으로서 논문을 보며 느낄 수 있는 즐거움 중 하나는, 2015년, 지금도 여전히 진행 중인 저런 거대한 연구의 맥락을 직접 따라가며 읽을 수 있다는 점이다. 2009년에 처음 제안된 개념이 2012년에 구체화되고, 2015년, 그러니까 바로 몇 개월 전에 그것이 실제로 현실에서 사용 가능한 수준으로 구현되는 모습을 지켜볼 수 있는 것이다.</description>
+    </item>
+    
+  </channel>
+</rss>

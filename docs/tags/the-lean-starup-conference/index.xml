@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Lean Starup Conference on ipuris</title>
+    <link>http://blog.hanpark.im/tags/the-lean-starup-conference/</link>
+    <description>Recent content in The Lean Starup Conference on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 19 Jan 2015 06:57:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/the-lean-starup-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Group Dinner in The Lean Startup Conference 2014 - Dec 9, SF Day 6 (2/2)</title>
+      <link>http://blog.hanpark.im/travel/2014-san-francisco/group-dinner/</link>
+      <pubDate>Mon, 19 Jan 2015 06:57:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2014-san-francisco/group-dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Lean Startup Conference 2014 - Dec 9, SF Day 6 (1/2)</title>
+      <link>http://blog.hanpark.im/travel/2014-san-francisco/the-lean-startup-conference/</link>
+      <pubDate>Sun, 18 Jan 2015 06:53:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2014-san-francisco/the-lean-startup-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reception and Ignite Talk in The Lean Startup Conference 2014 - Dec 8, SF Day 5 (2/2)</title>
+      <link>http://blog.hanpark.im/travel/2014-san-francisco/reception-and-ignite-talk/</link>
+      <pubDate>Sat, 17 Jan 2015 06:49:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/travel/2014-san-francisco/reception-and-ignite-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>서점 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%EC%84%9C%EC%A0%90/</link>
+    <description>Recent content in 서점 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 18 Jun 2016 15:13:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%EC%84%9C%EC%A0%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>영풍문고</title>
+      <link>http://blog.hanpark.im/doodle/youngpoong-bookstore/</link>
+      <pubDate>Sat, 18 Jun 2016 15:13:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/doodle/youngpoong-bookstore/</guid>
+      <description>수능 공부할 때, 나는 학교 앞에 있던 작은 서점을 두고 굳이 스펀지에 있던 영풍문고까지 가서 종종 문제집을 샀다.
+영풍문고는 제법 컸다. 으리으리했던 스펀지, 그 지하 1층 대부분을 차지하고 있었다. 맞은 편의 카페 하나를 빼면 전부 서점이었다.
+그 넓은 영풍문고에 들어서면 문제집은 오른쪽에 있었다. 하지만 나는 대부분의 시간을 왼편에서 보냈다. 왼편으로 가다보면 베스트셀러 소설들이 있었고, 시집들도 있었다. 조금 더 들어가면 컴퓨터 서적도 있었다. 나는 가만히 서서 그 책들을 읽다가, 비닐로 감싸진 컴퓨터 잡지들을 아쉬운 마음에 만지작거리다가, 그리고 마지막으로 문제집이나 사서 나오는 것이었다.</description>
+    </item>
+    
+  </channel>
+</rss>
