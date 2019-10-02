@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>핸드폰 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%ED%95%B8%EB%93%9C%ED%8F%B0/</link>
+    <description>Recent content in 핸드폰 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 11 Jul 2007 10:11:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%ED%95%B8%EB%93%9C%ED%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>핸드폰</title>
+      <link>http://blog.hanpark.im/sketchbook/cellphone/</link>
+      <pubDate>Wed, 11 Jul 2007 10:11:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/sketchbook/cellphone/</guid>
+      <description>핸드폰을 손에 꼭 쥐고 다닙니다. 누군가에게서 아직 잊혀지지 않았다는 걸 확인받고 싶었나 봅니다.</description>
+    </item>
+    
+  </channel>
+</rss>
