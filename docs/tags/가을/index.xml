@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>가을 on ipuris</title>
+    <link>http://blog.hanpark.im/tags/%EA%B0%80%EC%9D%84/</link>
+    <description>Recent content in 가을 on ipuris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 08 Oct 2007 19:01:00 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.hanpark.im/tags/%EA%B0%80%EC%9D%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>누군가의 가을</title>
+      <link>http://blog.hanpark.im/writing/someone-autumn/</link>
+      <pubDate>Mon, 08 Oct 2007 19:01:00 +0900</pubDate>
+      
+      <guid>http://blog.hanpark.im/writing/someone-autumn/</guid>
+      <description>어제 남쪽으로 태풍이 지나갔다더니, 오늘 날씨가 제법 쌀쌀해졌다.
+습관처럼 말하고 다녔었다. 내가 제일 좋아하는 계절은 가을이라고. 하지만 사람들이 떠올리는 가을의 이미지와 내가 좋아하는 가을의 이미지는 약간 다른 듯 하다.
+하늘이 높고 푸르른데다 햇살이 그리 강하지도 않고 바람까지 선선해서 놀러 다니기 최고의 날씨. 산은 단풍으로 물들고, 길 한켠에 코스모스가 피는 계절. 무언가 넉넉하고 자유로운 느낌의 계절이 바로 흔히들 떠올리는 가을이다.
+내가 좋아하는 가을은 위에서 말한 것과는 조금 다른 느낌이다. 한낮에도 반팔을 입고 다니기에는 살짝 추운 정도의 쌀쌀함.</description>
+    </item>
+    
+  </channel>
+</rss>
