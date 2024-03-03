@@ -1,0 +1,4 @@
+baseURL = 'https://hanpark.im/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'paper'

@@ -1,0 +1,9 @@
+# Build
+.hugo_build.lock
+
+# OS
+.DS_Store
+
+# Export
+public/
+
